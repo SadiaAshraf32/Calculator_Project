@@ -1,2 +1,11 @@
 Console.WriteLine("Sadia Ashraf");
 Console.WriteLine("24-ST-032");
+
+Division
+Console.WriteLine("Enter 1st number");
+int x = Convert.ToInt32(Console.ReadLin());
+Console.WriteLine("Enter 2nd number");
+int y = Convert.ToInt32(Console.ReadLin());
+double z = x/y
+Console.WriteLine("Division is "+ z);
+
