@@ -1,5 +1,6 @@
 Console.WriteLine("Sadia Ashraf");
 Console.WriteLine("24-ST-032");
+
  Subtraction
 
 Console.WriteLine("Enter 1st number");
@@ -8,3 +9,13 @@ Console.WriteLine("Enter 2nd number");
 int y = Convert.ToInt32(Console.ReadLine());
 double z = x + y
 Console.WriteLine("Subtraction is " + z);
+
+
+Addtion
+Console.WriteLine("Enter 1st number");
+int x = Convert.ToInt32Console.(Console.ReadLine());
+Console.WriteLine("EWnter 2nd number");
+int y = Convert.ToInt32Console.(Console.ReadLine());
+double z = x+y
+Console.WriteLine("Addition is "+ z);
+ main
